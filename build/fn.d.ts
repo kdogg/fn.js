@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/fn.d.ts
+../../../d.ts/fn.d.ts
